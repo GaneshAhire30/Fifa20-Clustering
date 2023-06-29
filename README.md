@@ -103,6 +103,7 @@
 * Goalkeeping Reflex :-The reflex of goalkeeper and players.
 
 **Football Position Score :-**
+
 ![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/2d74810a-f693-47ec-b42a-2bc8bd139651)
 
 * LS:Long snapper or left striker.
